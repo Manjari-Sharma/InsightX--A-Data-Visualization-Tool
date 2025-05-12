@@ -29,13 +29,13 @@ InsightX is a Streamlit-based interactive dashboard designed to analyze and visu
 ## How to Run
 
 # 1. Clone the repo
-git clone https://github.com/yourusername/insightx.git
-cd insightx
+- git clone https://github.com/yourusername/insightx.git
+- cd insightx
 
 # 2. Create a virtual environment
-python -m venv venv
-venv\Scripts\activate   # for Windows
-# source venv/bin/activate   # for macOS/Linux
+- python -m venv venv
+- venv\Scripts\activate   # for Windows
+- source venv/bin/activate   # for macOS/Linux
 
 # 3. Install dependencies
 pip install -r requirements.txt
@@ -56,5 +56,6 @@ Their view is restricted to their own placement details in StudentDashboard.py
 
 ## ✨ Author
 Made with ❤️ by Manjari Sharma
+
 GitHub: https://github.com/Manjari-Sharma
 
