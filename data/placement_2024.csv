@@ -1,0 +1,201 @@
+﻿s.no,roll number,name,company name,package,branch,email id
+1,R250001,Meera Kumar,Wipro,3.81,Chemical Engineering,meerakumar1@yahoo.com
+2,R250002,Arjun Verma,Tech Mahindra,6.25,Electronics and Communication Engineering,arjunverma2@yahoo.com
+3,R250003,Myra Reddy,Infosys,6.97,Civil Engineering,myrareddy3@yahoo.com
+4,R250004,Vihaan Singh,Mindtree,3.68,Mechanical Engineering,vihaansingh4@outlook.com
+5,R250005,Diya Patel,Wipro,7.49,Mechanical Engineering,diyapatel5@gmail.com
+6,R250006,Atharv Patel,TCS,5.01,Electrical Engineering,atharvpatel6@gmail.com
+7,R250007,Rohan Singh,Cognizant,3.56,Mechanical Engineering,rohansingh7@gmail.com
+8,R250008,Ishaan Singh,Wipro,10.88,Electronics and Communication Engineering,ishaansingh8@yahoo.com
+9,R250009,Harsh Sharma,Wipro,6.39,Electrical Engineering,harshsharma9@outlook.com
+10,R250010,Aryan Singh,Infosys,4.34,Mechanical Engineering,aryansingh10@gmail.com
+11,R250011,Aanya Verma,TCS,12.38,Civil Engineering,aanyaverma11@outlook.com
+12,R250012,Isha Sharma,Capgemini,10.78,Mechanical Engineering,ishasharma12@outlook.com
+13,R250013,Arjun Singh,Infosys,7.61,Electrical Engineering,arjunsingh13@yahoo.com
+14,R250014,Riya Verma,Mindtree,13.65,Information Technology,riyaverma14@outlook.com
+15,R250015,Kavya Verma,Capgemini,3.74,Chemical Engineering,kavyaverma15@outlook.com
+16,R250016,Vivaan Reddy,Cognizant,10.19,Computer Science and Engineering,vivaanreddy16@yahoo.com
+17,R250017,Aanya Kumar,Wipro,8.5,Information Technology,aanyakumar17@yahoo.com
+18,R250018,Shaurya Patel,Cognizant,3.98,Computer Science and Engineering,shauryapatel18@yahoo.com
+19,R250019,Rohan Kumar,Wipro,4.9,Information Technology,rohankumar19@outlook.com
+20,R250020,Aryan Verma,Wipro,13.91,Electrical Engineering,aryanverma20@yahoo.com
+21,R250021,Kabir Singh,Wipro,8.78,Mechanical Engineering,kabirsingh21@gmail.com
+22,R250022,Kabir Sharma,Infosys,5.25,Electronics and Communication Engineering,kabirsharma22@gmail.com
+23,R250023,Atharv Sharma,HCL,14.42,Computer Science and Engineering,atharvsharma23@gmail.com
+24,R250024,Atharv Sharma,HCL,6.19,Information Technology,atharvsharma24@yahoo.com
+25,R250025,Harsh Reddy,Tech Mahindra,8.96,Electrical Engineering,harshreddy25@gmail.com
+26,R250026,Raghav Reddy,TCS,14.99,Electronics and Communication Engineering,raghavreddy26@gmail.com
+27,R250027,Aryan Verma,Wipro,8.43,Electronics and Communication Engineering,aryanverma27@gmail.com
+28,R250028,Aarav Patel,Infosys,7.89,Information Technology,aaravpatel28@outlook.com
+29,R250029,Riya Kumar,Cognizant,4.36,Computer Science and Engineering,riyakumar29@outlook.com
+30,R250030,Aditya Kumar,Wipro,14.72,Civil Engineering,adityakumar30@gmail.com
+31,R250031,Tanya Singh,HCL,9.57,Electronics and Communication Engineering,tanyasingh31@outlook.com
+32,R250032,Saanvi Singh,TCS,5.57,Information Technology,saanvisingh32@gmail.com
+33,R250033,Vihaan Sharma,Capgemini,8.76,Information Technology,vihaansharma33@yahoo.com
+34,R250034,Shaurya Sharma,Mindtree,14.1,Mechanical Engineering,shauryasharma34@gmail.com
+35,R250035,Vivaan Singh,Wipro,3.74,Computer Science and Engineering,vivaansingh35@outlook.com
+36,R250036,Ishaan Kumar,Mindtree,5.29,Mechanical Engineering,ishaankumar36@gmail.com
+37,R250037,Saanvi Reddy,Infosys,3.01,Computer Science and Engineering,saanvireddy37@outlook.com
+38,R250038,Diya Verma,Infosys,7.57,Information Technology,diyaverma38@outlook.com
+39,R250039,Aditya Patel,Cognizant,7.93,Information Technology,adityapatel39@yahoo.com
+40,R250040,Raj Kumar,Wipro,13.68,Civil Engineering,rajkumar40@yahoo.com
+41,R250041,Myra Kumar,Cognizant,5.79,Electrical Engineering,myrakumar41@outlook.com
+42,R250042,Kunal Patel,HCL,4.54,Civil Engineering,kunalpatel42@gmail.com
+43,R250043,Krishna Verma,Infosys,12.72,Civil Engineering,krishnaverma43@outlook.com
+44,R250044,Tanya Patel,Infosys,3.36,Information Technology,tanyapatel44@outlook.com
+45,R250045,Aanya Verma,TCS,7.27,Information Technology,aanyaverma45@outlook.com
+46,R250046,Rohan Singh,Mindtree,12.89,Civil Engineering,rohansingh46@yahoo.com
+47,R250047,Kunal Kumar,Wipro,8.17,Computer Science and Engineering,kunalkumar47@yahoo.com
+48,R250048,Tanya Patel,TCS,4.46,Electronics and Communication Engineering,tanyapatel48@outlook.com
+49,R250049,Aditya Sharma,Wipro,12.66,Electronics and Communication Engineering,adityasharma49@outlook.com
+50,R250050,Aanya Verma,Mindtree,14.23,Mechanical Engineering,aanyaverma50@outlook.com
+51,R250051,Raj Verma,Wipro,10.87,Computer Science and Engineering,rajverma51@yahoo.com
+52,R250052,Rohan Singh,HCL,4.61,Mechanical Engineering,rohansingh52@gmail.com
+53,R250053,Harsh Kumar,Tech Mahindra,3.31,Electrical Engineering,harshkumar53@gmail.com
+54,R250054,Kabir Kumar,Capgemini,3.13,Information Technology,kabirkumar54@yahoo.com
+55,R250055,Aryan Patel,Cognizant,8.73,Information Technology,aryanpatel55@yahoo.com
+56,R250056,Vihaan Kumar,Cognizant,4.56,Chemical Engineering,vihaankumar56@gmail.com
+57,R250057,Raghav Sharma,Capgemini,11.09,Mechanical Engineering,raghavsharma57@gmail.com
+58,R250058,Raghav Reddy,Mindtree,10.69,Mechanical Engineering,raghavreddy58@yahoo.com
+59,R250059,Krishna Patel,HCL,3.76,Information Technology,krishnapatel59@gmail.com
+60,R250060,Aryan Singh,Cognizant,14.36,Chemical Engineering,aryansingh60@gmail.com
+61,R250061,Raj Patel,Capgemini,9.5,Information Technology,rajpatel61@yahoo.com
+62,R250062,Shaurya Patel,Capgemini,4.41,Chemical Engineering,shauryapatel62@gmail.com
+63,R250063,Arjun Kumar,Tech Mahindra,6.7,Electrical Engineering,arjunkumar63@outlook.com
+64,R250064,Manav Kumar,Wipro,8.1,Electronics and Communication Engineering,manavkumar64@outlook.com
+65,R250065,Myra Patel,HCL,13.48,Electrical Engineering,myrapatel65@gmail.com
+66,R250066,Kavya Patel,Capgemini,10.27,Mechanical Engineering,kavyapatel66@outlook.com
+67,R250067,Arjun Reddy,Tech Mahindra,12.85,Mechanical Engineering,arjunreddy67@gmail.com
+68,R250068,Aryan Patel,Mindtree,13.11,Computer Science and Engineering,aryanpatel68@yahoo.com
+69,R250069,Ananya Verma,TCS,6.15,Computer Science and Engineering,ananyaverma69@outlook.com
+70,R250070,Rohan Patel,Mindtree,4.26,Computer Science and Engineering,rohanpatel70@outlook.com
+71,R250071,Siddharth Verma,Cognizant,12.72,Chemical Engineering,siddharthverma71@gmail.com
+72,R250072,Siddharth Patel,Tech Mahindra,4.88,Information Technology,siddharthpatel72@yahoo.com
+73,R250073,Krishna Kumar,Tech Mahindra,9.19,Electrical Engineering,krishnakumar73@outlook.com
+74,R250074,Raghav Kumar,Mindtree,6.7,Electrical Engineering,raghavkumar74@outlook.com
+75,R250075,Aarav Reddy,TCS,9.33,Chemical Engineering,aaravreddy75@gmail.com
+76,R250076,Tanya Patel,Mindtree,3.6,Information Technology,tanyapatel76@outlook.com
+77,R250077,Ananya Patel,HCL,6.88,Information Technology,ananyapatel77@outlook.com
+78,R250078,Vivaan Reddy,Infosys,10.27,Computer Science and Engineering,vivaanreddy78@outlook.com
+79,R250079,Raj Kumar,HCL,12.01,Chemical Engineering,rajkumar79@outlook.com
+80,R250080,Kavya Sharma,HCL,8.81,Mechanical Engineering,kavyasharma80@yahoo.com
+81,R250081,Aditya Kumar,Wipro,11.22,Computer Science and Engineering,adityakumar81@outlook.com
+82,R250082,Raj Verma,TCS,3.5,Electronics and Communication Engineering,rajverma82@gmail.com
+83,R250083,Shaurya Patel,Cognizant,5.9,Civil Engineering,shauryapatel83@yahoo.com
+84,R250084,Rohan Verma,TCS,9.32,Computer Science and Engineering,rohanverma84@gmail.com
+85,R250085,Myra Sharma,Mindtree,4.48,Electrical Engineering,myrasharma85@yahoo.com
+86,R250086,Aryan Reddy,Mindtree,10.32,Mechanical Engineering,aryanreddy86@gmail.com
+87,R250087,Aryan Patel,Wipro,13.5,Mechanical Engineering,aryanpatel87@outlook.com
+88,R250088,Kunal Patel,Tech Mahindra,7.23,Civil Engineering,kunalpatel88@outlook.com
+89,R250089,Isha Patel,Cognizant,13.76,Chemical Engineering,ishapatel89@gmail.com
+90,R250090,Aryan Sharma,Cognizant,4.82,Electrical Engineering,aryansharma90@yahoo.com
+91,R250091,Arjun Reddy,Wipro,14.9,Civil Engineering,arjunreddy91@outlook.com
+92,R250092,Atharv Patel,HCL,4.1,Electrical Engineering,atharvpatel92@gmail.com
+93,R250093,Aryan Patel,Capgemini,6.76,Computer Science and Engineering,aryanpatel93@gmail.com
+94,R250094,Raj Kumar,Capgemini,5.45,Civil Engineering,rajkumar94@outlook.com
+95,R250095,Aanya Verma,Infosys,5.8,Mechanical Engineering,aanyaverma95@gmail.com
+96,R250096,Harsh Sharma,HCL,10.99,Mechanical Engineering,harshsharma96@outlook.com
+97,R250097,Saanvi Reddy,HCL,6.02,Computer Science and Engineering,saanvireddy97@outlook.com
+98,R250098,Riya Patel,Cognizant,10.62,Mechanical Engineering,riyapatel98@outlook.com
+99,R250099,Aryan Verma,Infosys,14.57,Electrical Engineering,aryanverma99@yahoo.com
+100,R250100,Tanya Patel,Wipro,13,Electrical Engineering,tanyapatel100@outlook.com
+101,R250101,Diya Verma,Capgemini,11.25,Chemical Engineering,diyaverma101@outlook.com
+102,R250102,Yash Kumar,Cognizant,9.83,Electronics and Communication Engineering,yashkumar102@yahoo.com
+103,R250103,Kabir Reddy,HCL,8.09,Information Technology,kabirreddy103@gmail.com
+104,R250104,Isha Kumar,Tech Mahindra,14.37,Civil Engineering,ishakumar104@outlook.com
+105,R250105,Yash Kumar,Wipro,6.84,Computer Science and Engineering,yashkumar105@yahoo.com
+106,R250106,Kabir Kumar,Infosys,7.04,Chemical Engineering,kabirkumar106@outlook.com
+107,R250107,Diya Verma,Mindtree,6.1,Chemical Engineering,diyaverma107@outlook.com
+108,R250108,Ishaan Patel,Infosys,3.82,Electronics and Communication Engineering,ishaanpatel108@outlook.com
+109,R250109,Shaurya Singh,HCL,5.98,Electronics and Communication Engineering,shauryasingh109@outlook.com
+110,R250110,Rohan Verma,HCL,12.5,Mechanical Engineering,rohanverma110@gmail.com
+111,R250111,Saanvi Reddy,Tech Mahindra,14.5,Chemical Engineering,saanvireddy111@outlook.com
+112,R250112,Vivaan Singh,Infosys,4.89,Electronics and Communication Engineering,vivaansingh112@outlook.com
+113,R250113,Vivaan Verma,HCL,9.01,Information Technology,vivaanverma113@yahoo.com
+114,R250114,Manav Singh,Capgemini,4.81,Electrical Engineering,manavsingh114@gmail.com
+115,R250115,Saanvi Reddy,Tech Mahindra,5.11,Computer Science and Engineering,saanvireddy115@outlook.com
+116,R250116,Aarav Reddy,Infosys,8.26,Information Technology,aaravreddy116@yahoo.com
+117,R250117,Aarav Verma,Cognizant,7.03,Information Technology,aaravverma117@yahoo.com
+118,R250118,Siddharth Patel,Cognizant,9.19,Civil Engineering,siddharthpatel118@outlook.com
+119,R250119,Siddharth Reddy,Infosys,7.01,Computer Science and Engineering,siddharthreddy119@yahoo.com
+120,R250120,Shaurya Reddy,Mindtree,14.62,Information Technology,shauryareddy120@gmail.com
+121,R250121,Atharv Reddy,Capgemini,6.27,Computer Science and Engineering,atharvreddy121@yahoo.com
+122,R250122,Kunal Reddy,Wipro,13.87,Computer Science and Engineering,kunalreddy122@gmail.com
+123,R250123,Isha Kumar,HCL,7.03,Chemical Engineering,ishakumar123@gmail.com
+124,R250124,Meera Patel,Capgemini,11.85,Computer Science and Engineering,meerapatel124@outlook.com
+125,R250125,Ananya Singh,HCL,9.92,Mechanical Engineering,ananyasingh125@yahoo.com
+126,R250126,Meera Verma,Wipro,5.85,Electronics and Communication Engineering,meeraverma126@yahoo.com
+127,R250127,Yash Patel,Wipro,14.72,Mechanical Engineering,yashpatel127@yahoo.com
+128,R250128,Vivaan Singh,Infosys,13.62,Electrical Engineering,vivaansingh128@outlook.com
+129,R250129,Tanya Patel,Capgemini,4.06,Mechanical Engineering,tanyapatel129@yahoo.com
+130,R250130,Vihaan Verma,HCL,8.29,Electronics and Communication Engineering,vihaanverma130@yahoo.com
+131,R250131,Meera Reddy,Tech Mahindra,14.34,Chemical Engineering,meerareddy131@gmail.com
+132,R250132,Tanya Sharma,Wipro,10.23,Electronics and Communication Engineering,tanyasharma132@outlook.com
+133,R250133,Rohan Verma,Capgemini,9.21,Electronics and Communication Engineering,rohanverma133@gmail.com
+134,R250134,Kunal Patel,Mindtree,13.54,Information Technology,kunalpatel134@gmail.com
+135,R250135,Vivaan Kumar,Capgemini,5.82,Computer Science and Engineering,vivaankumar135@outlook.com
+136,R250136,Raghav Verma,Wipro,3.78,Chemical Engineering,raghavverma136@gmail.com
+137,R250137,Kabir Sharma,TCS,9.69,Chemical Engineering,kabirsharma137@yahoo.com
+138,R250138,Manav Reddy,Wipro,5.56,Information Technology,manavreddy138@outlook.com
+139,R250139,Myra Verma,Infosys,9.51,Electronics and Communication Engineering,myraverma139@gmail.com
+140,R250140,Myra Sharma,HCL,6.36,Civil Engineering,myrasharma140@yahoo.com
+141,R250141,Aarav Verma,TCS,13.78,Information Technology,aaravverma141@yahoo.com
+142,R250142,Isha Singh,Capgemini,8.86,Mechanical Engineering,ishasingh142@gmail.com
+143,R250143,Manav Sharma,Cognizant,12.45,Information Technology,manavsharma143@outlook.com
+144,R250144,Aanya Reddy,Mindtree,12.02,Civil Engineering,aanyareddy144@yahoo.com
+145,R250145,Aditya Reddy,Capgemini,6.69,Mechanical Engineering,adityareddy145@gmail.com
+146,R250146,Aarav Singh,Wipro,12.64,Civil Engineering,aaravsingh146@outlook.com
+147,R250147,Raghav Sharma,TCS,6.31,Information Technology,raghavsharma147@gmail.com
+148,R250148,Meera Sharma,Capgemini,8.08,Information Technology,meerasharma148@gmail.com
+149,R250149,Raj Kumar,Wipro,11.09,Civil Engineering,rajkumar149@outlook.com
+150,R250150,Arjun Patel,Tech Mahindra,11.99,Computer Science and Engineering,arjunpatel150@yahoo.com
+151,R250151,Shaurya Singh,TCS,10.09,Electronics and Communication Engineering,shauryasingh151@outlook.com
+152,R250152,Aanya Verma,HCL,8.33,Computer Science and Engineering,aanyaverma152@gmail.com
+153,R250153,Isha Singh,Mindtree,13.86,Electronics and Communication Engineering,ishasingh153@gmail.com
+154,R250154,Tanya Reddy,TCS,12.51,Mechanical Engineering,tanyareddy154@yahoo.com
+155,R250155,Myra Verma,Cognizant,9.35,Computer Science and Engineering,myraverma155@outlook.com
+156,R250156,Tanya Sharma,Capgemini,13.79,Computer Science and Engineering,tanyasharma156@yahoo.com
+157,R250157,Manav Singh,TCS,12.08,Mechanical Engineering,manavsingh157@gmail.com
+158,R250158,Kunal Singh,TCS,12.89,Electronics and Communication Engineering,kunalsingh158@yahoo.com
+159,R250159,Krishna Reddy,Capgemini,4.84,Electrical Engineering,krishnareddy159@yahoo.com
+160,R250160,Kabir Sharma,TCS,10.46,Civil Engineering,kabirsharma160@gmail.com
+161,R250161,Aarav Patel,Mindtree,14.74,Information Technology,aaravpatel161@gmail.com
+162,R250162,Tanya Patel,Cognizant,11.11,Civil Engineering,tanyapatel162@gmail.com
+163,R250163,Arjun Kumar,Infosys,9.4,Civil Engineering,arjunkumar163@gmail.com
+164,R250164,Manav Sharma,Infosys,12.35,Electrical Engineering,manavsharma164@gmail.com
+165,R250165,Myra Reddy,HCL,13.32,Information Technology,myrareddy165@yahoo.com
+166,R250166,Aanya Sharma,Cognizant,5.73,Mechanical Engineering,aanyasharma166@gmail.com
+167,R250167,Rohan Verma,Wipro,5.99,Electrical Engineering,rohanverma167@gmail.com
+168,R250168,Raj Reddy,TCS,8.95,Electronics and Communication Engineering,rajreddy168@yahoo.com
+169,R250169,Diya Patel,Capgemini,10.31,Electrical Engineering,diyapatel169@gmail.com
+170,R250170,Shaurya Kumar,Tech Mahindra,13.56,Chemical Engineering,shauryakumar170@gmail.com
+171,R250171,Aryan Verma,Cognizant,12.94,Computer Science and Engineering,aryanverma171@outlook.com
+172,R250172,Riya Sharma,Tech Mahindra,8.04,Information Technology,riyasharma172@gmail.com
+173,R250173,Raj Sharma,Infosys,14.65,Chemical Engineering,rajsharma173@yahoo.com
+174,R250174,Raj Verma,Wipro,13.04,Chemical Engineering,rajverma174@yahoo.com
+175,R250175,Saanvi Patel,HCL,11.09,Mechanical Engineering,saanvipatel175@yahoo.com
+176,R250176,Kavya Reddy,Cognizant,7.27,Electrical Engineering,kavyareddy176@outlook.com
+177,R250177,Krishna Verma,Tech Mahindra,6.56,Civil Engineering,krishnaverma177@outlook.com
+178,R250178,Aarav Reddy,Mindtree,5.42,Mechanical Engineering,aaravreddy178@gmail.com
+179,R250179,Rohan Reddy,Infosys,13.35,Chemical Engineering,rohanreddy179@gmail.com
+180,R250180,Vihaan Verma,Infosys,7.05,Electrical Engineering,vihaanverma180@yahoo.com
+181,R250181,Ishaan Verma,Tech Mahindra,9.08,Electrical Engineering,ishaanverma181@yahoo.com
+182,R250182,Kabir Verma,Cognizant,10.95,Information Technology,kabirverma182@outlook.com
+183,R250183,Tanya Singh,Mindtree,12.4,Electrical Engineering,tanyasingh183@outlook.com
+184,R250184,Kunal Sharma,Cognizant,10.99,Computer Science and Engineering,kunalsharma184@yahoo.com
+185,R250185,Meera Sharma,Mindtree,10.69,Electrical Engineering,meerasharma185@yahoo.com
+186,R250186,Isha Kumar,Capgemini,5.73,Mechanical Engineering,ishakumar186@gmail.com
+187,R250187,Nikhil Sharma,Cognizant,9.43,Computer Science and Engineering,nikhilsharma187@yahoo.com
+188,R250188,Vihaan Patel,Wipro,13.76,Chemical Engineering,vihaanpatel188@outlook.com
+189,R250189,Yash Sharma,TCS,4.19,Electrical Engineering,yashsharma189@gmail.com
+190,R250190,Rohan Verma,TCS,8.38,Civil Engineering,rohanverma190@gmail.com
+191,R250191,Raghav Verma,TCS,13.93,Electrical Engineering,raghavverma191@gmail.com
+192,R250192,Meera Singh,TCS,11.99,Mechanical Engineering,meerasingh192@outlook.com
+193,R250193,Vivaan Singh,Cognizant,3.26,Mechanical Engineering,vivaansingh193@outlook.com
+194,R250194,Rohan Kumar,Infosys,7.22,Chemical Engineering,rohankumar194@gmail.com
+195,R250195,Aanya Verma,HCL,3.4,Civil Engineering,aanyaverma195@yahoo.com
+196,R250196,Vivaan Verma,HCL,5.15,Electronics and Communication Engineering,vivaanverma196@outlook.com
+197,R250197,Isha Reddy,Mindtree,10.83,Information Technology,ishareddy197@outlook.com
+198,R250198,Rohan Verma,Mindtree,3.28,Electrical Engineering,rohanverma198@yahoo.com
+199,R250199,Aarav Patel,Capgemini,7.48,Chemical Engineering,aaravpatel199@yahoo.com
+200,R250200,Harsh Patel,Cognizant,10.77,Information Technology,harshpatel200@gmail.com
