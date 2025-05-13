@@ -59,3 +59,8 @@ Made with ❤️ by Manjari Sharma
 
 GitHub: https://github.com/Manjari-Sharma
 
+## 🚀 Live Demo
+
+Check out the live deployed version here 👉 [InsightX Dashboard](https://insightx--a-data-visualization-tool-g2xtruyr9nvmabi2996u7j.streamlit.app/)
+
+
