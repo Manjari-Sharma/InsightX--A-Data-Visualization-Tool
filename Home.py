@@ -24,6 +24,6 @@ if st.button("Login"):
         st.session_state.student_roll = user.iloc[0]["roll number"]
         st.session_state.student_name = user.iloc[0]["name"]
         st.success(f"Welcome, {st.session_state.student_name}!")
-        st.markdown("✅ Go to the top-left menu and select **Student View** to continue.")
+        st.markdown("✅ Go to the top-left menu and select **Student Dashboard** to continue.")
     else:
         st.error("Invalid credentials. Please try again.")
