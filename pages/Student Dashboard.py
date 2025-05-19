@@ -42,3 +42,32 @@ if not student_data.empty:
             st.warning("😕 You have not been placed yet.")
 else:
     st.warning("No placement data found for your roll number in this year.")
+
+st.subheader("🔐 Change Password")
+
+with st.form("change_password_form"):
+    old_pwd = st.text_input("Current Password", type="password")
+    new_pwd = st.text_input("New Password", type="password")
+    confirm_pwd = st.text_input("Confirm New Password", type="password")
+    submitted = st.form_submit_button("Update Password")
+
+    if submitted:
+        users_df = pd.read_csv("users.csv")
+
+        user_index = users_df[users_df["roll number"].astype(str) == student_roll].index
+
+        if not user_index.empty:
+            current_pwd = users_df.loc[user_index[0], "password"]
+
+            if old_pwd == current_pwd:
+                if new_pwd == confirm_pwd:
+                    users_df.loc[user_index[0], "password"] = new_pwd
+                    users_df.to_csv("users.csv", index=False)
+                    st.success("✅ Password updated successfully!")
+                else:
+                    st.error("❌ New passwords do not match.")
+            else:
+                st.error("❌ Current password is incorrect.")
+        else:
+            st.error("❌ Student record not found.")
+

@@ -18,7 +18,17 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("InsightX - Data Visualization Dashboard")
+from PIL import Image
+
+# Load logo
+logo = Image.open("Logo.jpg")  # Or "assets/logo.png" if inside assets folder
+
+# Show logo and title together
+col1, col2 = st.columns([1, 12])
+with col1:
+    st.image(logo, width=100)
+with col2:
+    st.markdown("<h1 style='color:#001020;'>InsightX - Data Visualization Dashboard</h1>", unsafe_allow_html=True)
 
 # Year Selection
 st.sidebar.title("Select Placement Year")
